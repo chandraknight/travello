@@ -1,0 +1,16 @@
+{
+    "name": "International",
+    "alias": "international",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\International\\Providers\\InternationalServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

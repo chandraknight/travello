@@ -1,0 +1,16 @@
+{
+    "name": "Domestic",
+    "alias": "domestic",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Domestic\\Providers\\DomesticServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Cab",
+    "alias": "cab",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Cab\\Providers\\CabServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
