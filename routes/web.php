@@ -11,6 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {
+//    return view('welcome');
+//});
+//Route::resource('reports', 'Modules\Product\Http\Controllers\ProductController')
+Route::get('/','CabController@index');
+//Route::get('/',function(){
+//	return view('modules.cab');
+//});
+
+//Route::resource('reports', 'Product\Http\Controllers\ProductController')
